@@ -5,5 +5,5 @@ This is the basic outline for all websites using html5.  Use the links below to 
 [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 ### CSS Property Reference
-[MDN CSS Syntax Writing](https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax)
-[MDN CSS Property List](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Concepts)
+  +  [MDN CSS Syntax Writing](https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax)
+  +  [MDN CSS Property List](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Concepts)
